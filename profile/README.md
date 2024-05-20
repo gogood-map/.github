@@ -9,7 +9,7 @@ Nós somos a empresa por trás da criação e desenvolvimento da aplicação de 
 
 - [João Vitor](https://www.github.com/JohnVSCordeiro)
 - [Leandro](https://www.github.com/lean-dro)
-- [Matheus Henrique](https://www.github.com/MatheusHenrique005)
+- [Matheus Henrique](https://www.github.com/TheusBr05)
 - [Tatyana](https://www.github.com/limataty)
 - [Thiago](https://www.github.com/thigarcias)
 
