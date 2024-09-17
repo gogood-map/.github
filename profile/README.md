@@ -1,5 +1,5 @@
 
-![Logo]([logo.png](https://github.com/gogood-map/.github/blob/main/logo.png))
+![Logo](https://raw.githubusercontent.com/gogood-map/.github/main/logo.png)
 
 Nós somos a empresa por trás da criação e desenvolvimento da aplicação de mesmo nome. 
 
